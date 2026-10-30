@@ -62,7 +62,9 @@ I enjoy building reliable cloud-native environments, automating application deli
   <img src="https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
   <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
   <img src="https://img.shields.io/badge/Trivy-Security%20Scanning-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" />
-  <img src="https://img.shields.io/badge/Nexus-Artifact%20Repository-1B1C30?style=flat-square&logo=sonatype&logoColor=white" alt="Nexus 
+  <img src="https://img.shields.io/badge/Nexus-Artifact%20Repository-1B1C30?style=flat-square&logo=sonatype&logoColor=white" alt="Nexus
+      Repository" />
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-Monitoring-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="AWS CloudWatch" />
 </p>
 
 ---
