@@ -62,49 +62,14 @@ I enjoy building reliable cloud-native environments, automating application deli
   <img src="https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
   <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
   <img src="https://img.shields.io/badge/Trivy-Security%20Scanning-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" />
-  <img src="https://img.shields.io/badge/Nexus-Artifact%20Repository-1B1C30?style=flat-square&logo=sonatype&logoColor=white" alt="Nexus Repository" />
+  <img src="https://img.shields.io/badge/Nexus-Artifact%20Repository-1B1C30?style=flat-square&logo=sonatype&logoColor=white" alt="Nexus 
+
+  Repository" />
   <img src="https://img.shields.io/badge/AWS%20CloudWatch-Monitoring-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="AWS CloudWatch" />
 </p>
 
 ---
 
-## 🚀 Featured Project
-
-### Cloud-Native BankApp — End-to-End CI/CD & GitOps on Amazon EKS
-
-A hands-on Java 17 / Spring Boot project demonstrating an automated CI workflow and a separate Kubernetes delivery repository for deploying BankApp to Amazon EKS.
-
-| Repository | What it contains |
-|---|---|
-| [Mega-Project-CI-main](https://github.com/SurajKhanderao/Mega-Project-CI-main) | Jenkins pipeline for Maven build and tests, JaCoCo coverage, SonarQube analysis, Trivy scans, Docker image build and push, Nexus artifact publishing, and automated image-tag update in the CD repository. |
-| [Mega-Java-Project-CD](https://github.com/SurajKhanderao/Mega-Java-Project-CD) | Kubernetes manifests, RBAC configuration, and Jenkins deployment pipeline. The repository is also used as the Git source monitored by Argo CD for GitOps synchronization to Amazon EKS. |
-
-**Project technologies:** Java 17, Spring Boot, Maven, Jenkins, GitHub, JaCoCo, SonarQube, Trivy, Docker, Docker Hub, Nexus Repository, Kubernetes, Amazon EKS, and Argo CD.
-
-**Workflow at a glance:**
-
-```text
-Application Source (GitHub)
-          |
-          v
-   Jenkins CI Pipeline
-          |
-          +----> Maven Build & Unit Tests
-          +----> JaCoCo Coverage
-          +----> SonarQube Analysis
-          +----> Trivy Security Scans
-          +----> Nexus Artifact Publishing
-          +----> Docker Build & Docker Hub Push
-                          |
-                          v
-             Update Image Tag in CD Repo
-                          |
-                          v
-                 Argo CD GitOps Sync
-                          |
-                          v
-                   Amazon EKS
-```
 
 ---
 
