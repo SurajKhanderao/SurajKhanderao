@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:123B6D,100:2563EB&height=190&section=header&text=Suraj%20Khanderao&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20GitOps&descAlignY=58&descSize=16" alt="Suraj Khanderao - DevOps Engineer" width="100%" />
 </div>
 
-<h3 align="center">DevOps Engineer | AWS Cloud | Kubernetes (EKS) | CI/CD | Infrastructure as Code</h3>
+<h3 align="center">DevOps Engineer| 3.5+ years of experience  | AWS Cloud | Kubernetes (EKS) | CI/CD | Infrastructure as Code</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-khanderao/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
