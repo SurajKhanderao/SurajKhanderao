@@ -30,7 +30,7 @@ I enjoy building reliable cloud-native environments, automating application deli
 - ⚙️ Automating build and release workflows using **Jenkins, GitLab CI/CD, and GitHub Actions**.
 - 🔁 Implementing GitOps-based delivery with **Argo CD** and Git-managed Kubernetes manifests.
 - 🏗️ Automating infrastructure with **Terraform and Ansible**.
-- 🔐 Applying DevSecOps practices with **SonarQube, Trivy, IAM, and secrets management**.
+- 🔐 Applying DevSecOps practices with **SonarQube, Trivy, Gitleaks, AWS Secrets Manager, and HashiCorp Vault**.
 - 📊 Working with **Prometheus, Grafana, CloudWatch, and EFK/ELK** for monitoring and observability.
 - 🎯 Interested in AWS DevOps, Kubernetes, platform engineering, automation, and cloud-native operations.
 
@@ -91,7 +91,16 @@ I enjoy building reliable cloud-native environments, automating application deli
     <td>
       <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
       <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" />
+      <img src="https://img.shields.io/badge/Gitleaks-5B4B8A?style=flat-square" alt="Gitleaks" />
       <img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS IAM" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Secrets Management</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Secrets Manager" />
+      <img src="https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=flat-square&logo=hashicorp&logoColor=black" alt="HashiCorp Vault" />
+      <img src="https://img.shields.io/badge/External%20Secrets%20Operator-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="External Secrets Operator" />
     </td>
   </tr>
   <tr>
