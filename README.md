@@ -96,21 +96,10 @@ I enjoy building reliable cloud-native environments, automating application deli
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Secrets Management</b></td>
+    <td align="right"><b>Scripting</b></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Secrets Manager" />
-      <img src="https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=flat-square&logo=hashicorp&logoColor=black" alt="HashiCorp Vault" />
-      <img src="https://img.shields.io/badge/External%20Secrets%20Operator-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="External Secrets Operator" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Build & Scripting</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-      <img src="https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white" alt="Nexus Repository" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /
     </td>
   </tr>
 </table>
