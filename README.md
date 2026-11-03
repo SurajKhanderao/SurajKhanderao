@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Suraj Khanderao**, a DevOps Engineer with **3.5+ years of experience** working with cloud infrastructure, Kubernetes, CI/CD automation, and Infrastructure as Code.
+Hi, I'm **Suraj Khanderao**, a Entry-level DevOps Engineer with hands-on experience with cloud infrastructure, Kubernetes, CI/CD automation, and Infrastructure as Code.
 
 I enjoy building reliable cloud-native environments, automating application delivery, and improving deployment workflows through DevOps and GitOps practices.
 
